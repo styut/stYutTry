@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\jobSearchServer\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\jobsearchserver\\webapplication1\\webapplication1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\jobsearchserver\\webapplication1\\webapplication1\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\jobsearchserver\\webapplication1\\webapplication1\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2631591-D153-4FCE-B409-F1755A21909D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\jobSearchServer\\WebApplication1\\WebApplication1\\Dockerfile",
+              "RelativeDocumentMoniker": "WebApplication1\\Dockerfile",
+              "ToolTip": "C:\\Users\\User\\Desktop\\jobSearchServer\\WebApplication1\\WebApplication1\\Dockerfile",
+              "RelativeToolTip": "WebApplication1\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-08T17:59:21.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\jobSearchServer\\WebApplication1\\WebApplication1\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\jobSearchServer\\WebApplication1\\WebApplication1\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwCEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:50:08.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jobsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\jobSearchServer\\WebApplication1\\WebApplication1\\Controllers\\jobsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\jobsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\jobSearchServer\\WebApplication1\\WebApplication1\\Controllers\\jobsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\jobsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:43:50.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
